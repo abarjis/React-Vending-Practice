@@ -1,7 +1,19 @@
 
 # React.js Vending Machine
 
-Practice for React Router with this small Vending Machine demo.
+##  Vending Machine demo to practice React Router.
 
-Built with HTML, CSS, JavaScript, React.js.
+### Technologies Used:
 
+
+HTML, CSS, JavaScript, React.js.
+
+
+
+To run this:
+
+    npm install
+    
+Then:
+
+    npm start
